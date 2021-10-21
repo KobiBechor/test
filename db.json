@@ -7,13 +7,13 @@
     },
     {
         "id" : 1,
-        "name" : "John",
+        "name" : "Kobi",
         "age" : 25 
     },
     {
         "id" : 1,
-        "name" : "John",
-        "age" : 25 
+        "name" : "Maria",
+        "age" : 30 
     }
  ]
 }
