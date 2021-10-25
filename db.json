@@ -13,6 +13,18 @@
       "datetime": "2021-10-25T09:39:44.992750Z",
       "status": "NEW",
       "acknowledgeDatetime": null
+    },
+     {
+      "id": 1002,
+      "source": "admin",
+      "recipient": "admin",
+      "title": "The job no. 12345 is finished!!!",
+      "body": "This means that the job is finished!",
+      "type": "INFORMATION",
+      "link": "http://www.google.com",
+      "datetime": "2021-10-25T09:39:44.992750Z",
+      "status": "NEW",
+      "acknowledgeDatetime": null
     }
   ]
       }
