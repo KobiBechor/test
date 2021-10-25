@@ -1,22 +1,5 @@
 {
-    "profiles" : [
-    {
-        "id" : 1,
-        "name" : "John",
-        "age" : 25 
-    },
-    {
-        "id" : 1,
-        "name" : "Kobi",
-        "age" : 41 
-    },
-    {
-        "id" : 1,
-        "name" : "Maria",
-        "age" : 50 
-    }
- ],
- "content": [
+  "content": [
     {
       "id": 1001,
       "source": "admin",
@@ -24,10 +7,35 @@
       "title": "The proccess in phase 2",
       "body": "A message for you",
       "type": "INFORMATION",
-      "link": "http://www.google.com",
+      "link": "http://www.ifactor.ai/notifications-extra",
       "datetime": "2021-10-25T09:39:44.992750Z",
       "status": "NEW",
       "acknowledgeDatetime": null
     }
-  ]    
+  ],
+  "pageable": {
+    "sort": {
+      "unsorted": true,
+      "sorted": false,
+      "empty": true
+    },
+    "offset": 0,
+    "pageNumber": 0,
+    "pageSize": 20,
+    "paged": true,
+    "unpaged": false
+  },
+  "last": true,
+  "totalElements": 1,
+  "totalPages": 1,
+  "number": 0,
+  "size": 20,
+  "first": true,
+  "sort": {
+    "unsorted": true,
+    "sorted": false,
+    "empty": true
+  },
+  "numberOfElements": 1,
+  "empty": false
 }
