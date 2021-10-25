@@ -15,5 +15,19 @@
         "name" : "Maria",
         "age" : 50 
     }
- ]
+ ],
+ "content": [
+    {
+      "id": 1001,
+      "source": "admin",
+      "recipient": "admin",
+      "title": "The proccess in phase 2",
+      "body": "A message for you",
+      "type": "INFORMATION",
+      "link": "http://www.ifactor.ai/notifications-extra",
+      "datetime": "2021-10-25T09:39:44.992750Z",
+      "status": "NEW",
+      "acknowledgeDatetime": null
+    }
+  ]    
 }
