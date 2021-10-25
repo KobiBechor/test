@@ -25,6 +25,18 @@
       "datetime": "2021-10-25T09:39:44.992750Z",
       "status": "NEW",
       "acknowledgeDatetime": null
+    },
+    {
+      "id": 1003,
+      "source": "admin",
+      "recipient": "admin",
+      "title": "A message for Geanina",
+      "body": "Click here to find the message!",
+      "type": "INFORMATION",
+      "link": "http://www.google.com",
+      "datetime": "2021-10-25T09:39:44.992750Z",
+      "status": "NEW",
+      "acknowledgeDatetime": null
     }
   ]
       }
